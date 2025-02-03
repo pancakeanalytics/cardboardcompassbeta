@@ -14,7 +14,7 @@ st.set_page_config(
 
 
 # Set the URL for the dataset and image
-data_url = 'https://pancakebreakfaststats.com/wp-content/uploads/2025/01/data_file_002.xlsx'
+data_url = 'https://pancakebreakfaststats.com/wp-content/uploads/2025/02/data_file_003.xlsx'
 image_url = 'https://pancakebreakfaststats.com/wp-content/uploads/2024/08/017_logo.png'
 
 # Load and clean the data
